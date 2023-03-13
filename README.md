@@ -8,9 +8,6 @@ Trace IP Addresses (ipv6 or public ip)
 
 Then Youre Good To Go
 
-# Buggy
-The Py File is a little buggy!
-
 # Help
 PythonDev#5063
 
