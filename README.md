@@ -9,7 +9,7 @@ Trace IP Addresses (ipv6 or public ip)
 Then Youre Good To Go
 
 # Buggy
-Its A little buggy im gonna add an exe soon!
+The Py File is a little buggy!
 
 # Help
 PythonDev#5063
